@@ -6,7 +6,7 @@ Air BNB has grown popularity ,it has increasingly become the focus of regulation
 
 **Tech stack**
 
-Explore the Maven Analytics AirBnB Listing Analysis project—a comprehensive guide designed to help you analyze data proficiently using Python in a Jupyter environment, perfect for those seeking a foundational understanding of data analysis.
+Explore the Maven Analytics AirBnB Listing Analysis project—a comprehensive guide designed to help you analyze data proficiently using Python in a Google colab, perfect for those seeking a foundational understanding of data analysis.
 
 **Role**
 
